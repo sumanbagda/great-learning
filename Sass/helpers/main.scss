@@ -467,21 +467,16 @@
      }
  }
 
-
  .explore{
-    padding: 20px 0;
-    width: 90%;
+    padding: 0px 0;
+    width: 100%;
     margin: auto;
-    ul{
-        li{
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-        background-color: #f8f8f8;
-        border-radius: 10px;
+    background-color: #f8f8f8;
+    border-radius: 10px;
         .explore-text{
             padding:0 50px;
-            width: 50%;
+
+
             h3{
                 font-size: 48px;
                 line-height: 64px;
@@ -518,13 +513,11 @@
 }
 
 .explore-img{
-    width: 50%;
+
     img{
         width: 100%;
         border-radius: 0 10px 10px 0px;
     }
-}
-}
 }
 }
 
@@ -896,6 +889,9 @@
         }
         
     }
+
+
+    
 
 
 
